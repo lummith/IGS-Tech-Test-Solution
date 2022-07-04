@@ -1,0 +1,7 @@
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.csproj.AssemblyReference.cache
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.Resources.resources
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.csproj.GenerateResource.cache
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.AssemblyInfoInputs.cache
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.AssemblyInfo.cs
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\QueryApp.csproj.CoreCompileInputs.cache

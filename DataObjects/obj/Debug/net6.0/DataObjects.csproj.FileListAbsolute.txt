@@ -1,0 +1,15 @@
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\bin\Debug\net6.0\DataObjects.deps.json
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\bin\Debug\net6.0\DataObjects.dll
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\bin\Debug\net6.0\DataObjects.pdb
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.csproj.AssemblyReference.cache
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.AssemblyInfoInputs.cache
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.AssemblyInfo.cs
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.dll
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\refint\DataObjects.dll
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\DataObjects.pdb
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\DataObjects\obj\Debug\net6.0\ref\DataObjects.dll
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\DataObjects.deps.json
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\DataObjects.dll
+C:\Users\calum\OneDrive\Documents\tech-test-software-engineer-main\tech-test-software-engineer-main\bin\debug\Debug\net6.0\DataObjects.pdb
