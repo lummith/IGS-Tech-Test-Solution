@@ -9,20 +9,19 @@ The 'Run' folder contains the ```QueryApp``` and ```RecipeAPI``` contains all fi
 Alternatively, to start the QueryApp open the IgsSoftwareTechTest.sln in visual studio 2022 and start the QueryApp project.  
 
 ## Thought process
-
-I implemented a console application for my solution to give a simple display of what instructions would be given to structured. I structuced the application around the single responsibility principle. The only dependency the classes have is the DataObject class - I did this to prevent duplicate code. ```The recipe``` class in the ```RecipeAPI``` project can be removed and a reference to DataObjects can be used instead. 
+I implemented a console application for my solution to provide a simple display of instruction. I structured the application around the single responsibility principle. The only dependency that the classes have is the DataObject class - this was to prevent code duplication.  The ```recipe``` in the ``RecipeAPI`` project can be removed and a reference to DataObjects used instead.
 
 ### Features
 
 #### Storage
-I used a text file to store the API's URL allowing for it to be changed easily. In the case the URL file is missing or empty I have added a resource file to store the default URL for the API.
+I used a text file to store the API's URL which allows it to be changed easily. In the case that the URL file is missing or empty, I have added a resource file to store the default URL for the API. 
 
 #### Error Handling 
-When an exception occurs the app outputs the exception message in the console and pressing enter afterwards will exit the application. I did this to give a controlled exit out of the application and to show which issue had occurred.  
+When an exception occurs, the app outputs an exception message to the console and pressing enter will exit the application. This provides a controlled exit from the application and shows information about the exception.   
 
 ## Assumptions
-* For watering phases I assumed phases containing 0 amount of water can be skipped to avoid unnecessary instructions given to the tower.  
-* The outputted times are not in UTC format but are stored in this format. I left it like this to make it more human-readable.  
+* For the watering phases, any consisting of a zero quantity of water are skipped to avoid unnecessary instructions being given to the tower. 
+* The outputted times are in a more human-readable format but are stored in the UTC format - I left it like this to make it more human-readable.  
 
 ### Corrections 
 While I was testing my solution I noticed two typos with the given material provided:
