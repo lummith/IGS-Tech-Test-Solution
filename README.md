@@ -24,13 +24,14 @@ When an exception occurs, the app outputs an exception message to the console an
 * The outputted times are in a more human-readable format but are stored in the UTC format - I left it like this to make it more human-readable.  
 
 ### Corrections 
-While I was testing my solution I noticed two typos with the given material provided:
-* In the example input the start date for tray 2 is incorrectly formated - months and days  
-* In the API there are two "phase 3" watering phases for strawberries
+While I was testing my solution, I noticed two typos with the given material provided:
+* In the example input the start date for tray 2 is incorrectly formatted - months and days.  
+* In the API there are two "phase 3" watering phases for strawberries.
 
 ## Improvments
-* Rather than using text files to store the applications configuration (currently the API's URL) a database could be used instead to prevent tampering or potential loss of files 
-* To improve debugging of the application tracing and unit tests can be added. Unit tests are essential meet the unit's intended function especially in an ever-evolving environment. 
-* The current error handling can be improved to give more meaningful output to the console.
-* In a test environment it is ok to have no authentication but in a production environment, this would be required to prevent any unauthorised access to the API.    
-* To prevent repeated calls to the API whenever a new input is given the recipe can be stored locally. A new endpoint could be added to indicate if the recipes have been updated which can be pooled daily/weekly/monthly.        
+* Rather than using text files to store the application’s configuration, (currently the API's URL), a database could be used to prevent tampering or potential loss of files. 
+* To improve the debugging of the application, tracing and unit tests can be 
+added. Unit tests are essential to meet the unit's intended function, especially in an ever-evolving environment.  
+* The current error handling can be improved to provide more meaningful output to the console.
+* In a test environment it is acceptable to have no authentication but in a production environment, this would be required to prevent any unauthorised access to the API.  
+* To prevent repeated calls to the API whenever a new input is given, the recipe could be stored locally. A new endpoint could be added to indicate if the recipes have been updated which could be pooled daily/weekly/monthly.       
