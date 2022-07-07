@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QueryApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\calum\\OneDrive\\Documents\\tech-test-software-engineer-main\\tech-test-software-engineer-main\\QueryApp\\Files\\recipeNames.txt\""
+    }
+  }
+}
